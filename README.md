@@ -1,6 +1,19 @@
 # Final project 
 Project overview
 My project is a web app which could store information about the Uber or Lyft experience. The website includes two kinds of user, driver and passenger. In the first iteration, I update the login page. 
+![image](https://github.com/zl6ct/Taxiproject/blob/master/images/index.png)
+In the login page we can sign in as a driver or a passenger. You need to register if you are not a user. 
+![image](https://github.com/zl6ct/Taxiproject/blob/master/images/register.png)
+the data will be stored into the local database, which I used Xmapp to visualize it.
+![image](https://github.com/zl6ct/Taxiproject/blob/master/images/database.png)
+After I register, I can sign in
+![image](https://github.com/zl6ct/Taxiproject/blob/master/images/login.png)
+If you input wrong password, it will remind you and you need to sign in again.
+![image](https://github.com/zl6ct/Taxiproject/blob/master/images/wrongpassword.png)
+
+
+
+
 
 
 
