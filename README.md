@@ -34,6 +34,8 @@ I need to init the firebase, but windows user need to input "Set-ExecutionPolicy
 ![image](https://github.com/zl6ct/Taxiproject/blob/master/images/code3.png)
 Now we can add the google sign in 
 ![image](https://github.com/zl6ct/Taxiproject/blob/master/images/code4.png)
+![image](https://github.com/zl6ct/Taxiproject/blob/master/images/indexnew.png)
+
 And we can choose account
 ![image](https://github.com/zl6ct/Taxiproject/blob/master/images/chooseaccount.png)
 
