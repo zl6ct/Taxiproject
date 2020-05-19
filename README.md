@@ -1,9 +1,18 @@
 # Project overview
 My project is a web app which could store information about the Uber or Lyft experience. The website includes two kinds of user, driver and passenger. In the first iteration, I update the login page. 
 # Implement
-Xampp PHPMYADMIN
-Google Sign in for website API
-Firebase
+Xampp PHPMYADMIN  
+  Google Sign in for website API
+  Firebase
+# Set Up
+First , download the XMAPP from the website.
+Change the port to 8081,Start the apache and mysql.
+![image](https://github.com/zl6ct/Taxiproject/blob/master/images/xampp.png)
+Put the source code, all the html and php into xmapp\htdocs.
+![image](https://github.com/zl6ct/Taxiproject/blob/master/images/document.png)
+Import the sql into XMAPP phpMyAdmin
+![image](https://github.com/zl6ct/Taxiproject/blob/master/images/sql.png)
+
 # Process
 ![image](https://github.com/zl6ct/Taxiproject/blob/master/images/index.png)
 In the login page we can sign in as a driver or a passenger. You need to register if you are not a user. 
