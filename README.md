@@ -48,6 +48,7 @@ Now we can add the google sign in
 And we can choose account
 ![image](https://github.com/zl6ct/Taxiproject/blob/master/images/chooseaccount.png)
 
+But There is still a bug, I can't change php which means the google login information can't not be record, I am trying to fix it.
 
 
 
