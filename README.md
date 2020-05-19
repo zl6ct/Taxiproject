@@ -1,6 +1,10 @@
-# Final project 
 # Project overview
 My project is a web app which could store information about the Uber or Lyft experience. The website includes two kinds of user, driver and passenger. In the first iteration, I update the login page. 
+# Implement
+Xampp PHPMYADMIN
+Google Sign in for website API
+Firebase
+# process
 ![image](https://github.com/zl6ct/Taxiproject/blob/master/images/index.png)
 In the login page we can sign in as a driver or a passenger. You need to register if you are not a user. 
 ![image](https://github.com/zl6ct/Taxiproject/blob/master/images/register.png)
